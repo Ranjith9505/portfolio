@@ -1,0 +1,8 @@
+# database.yml
+database:
+  type: PostgreSQL
+  host: localhost
+  port: 3306
+  username: root
+  password: Pa$$w0rd
+  database_name: mydb
